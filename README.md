@@ -1,4 +1,4 @@
-# Text-mining-with-Python-in-Korean
+# Web-Crawling-and-Text-mining-with-Python-in-Korean
 
 * Lecture materials for SNU Big Data Academy
 * All the materials are provided in Korean
