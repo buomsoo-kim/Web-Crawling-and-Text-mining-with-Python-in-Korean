@@ -19,7 +19,9 @@
 3) Web Crawling - 3: (lecture) Splinter / (lab) Dictionary.com Crawling
 4) Web Crawling - 4: (lab) Daum Movie Crawling (using Splinter)
 
-![Alt Text](etc/imgs/1.jpg)
+<br>
+
+![Alt Text](etc/imgs/1.JPG)
 
 <Part 2: Text Analysis>
 1) Text Analysis - 1: (lecture) Fundamentals of Text Analysis / (lab) Text Data Processing (KoNlPy)
@@ -28,6 +30,8 @@
 4) Text Analysis - 4: (lab) Text Visualization (World Cloud & Network Graphs)
 5) Text Analysis - 5: (lab) Sentiment Analysis with Korean Movie Reviews
 
-![Alt Text](etc/imgs/4.jpg)
+![Alt Text](etc/imgs/4.JPG)
+
+<br>
 
 ![Alt Text](etc/imgs/2.png)
